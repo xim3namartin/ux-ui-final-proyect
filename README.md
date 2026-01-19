@@ -27,9 +27,6 @@ The design focuses on usability, accessibility, and a clean visual style aligned
 - Interactive prototype  
 
 ## 📸 Screenshots
-_(Add exported images from Figma here for visual impact)_
-
-Example:
 
 ![UI Preview](./screenshots/ui-preview.png)
 
