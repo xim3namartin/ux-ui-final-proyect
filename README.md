@@ -29,8 +29,8 @@ The design focuses on usability, accessibility, and a clean visual style aligned
 ## 📸 Screenshots
 
 preview1.png.png
-![Preview](./screenshots/preview1.png.png)
-![Preview](./screenshots/preview2.png.png)
+![Preview](./screenshots/preview1.png)
+![Preview](./screenshots/preview2.png)
 
 
 ## 🛠️ Tools Used
