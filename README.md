@@ -28,7 +28,10 @@ The design focuses on usability, accessibility, and a clean visual style aligned
 
 ## 📸 Screenshots
 
-![UI Preview](./screenshots/UXUI - Pantallas - App prod estetica 2.png)
+![Preview](./screenshots/preview1.png)
+![Preview](./screenshots/preview2.png)
+
+
 
 ## 🛠️ Tools Used
 - Figma  
